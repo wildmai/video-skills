@@ -1,0 +1,220 @@
+﻿{
+    "display":  {
+                    "region":  [
+                                   0,
+                                   0,
+                                   1920,
+                                   1080
+                               ]
+                },
+    "voice":  {
+                  "voice":  "zh-CN-XiaoxiaoNeural",
+                  "rate":  "+8%"
+              },
+    "chapters":  [
+                     {
+                         "id":  "ch00",
+                         "num":  "00",
+                         "title":  "成果前置",
+                         "sub":  "从一张图，到能玩、能改、能打印",
+                         "beats":  [
+                                       {
+                                           "seg":  0,
+                                           "src":  "rec_agent.mp4",
+                                           "in":  84,
+                                           "out":  96
+                                       },
+                                       {
+                                           "seg":  1,
+                                           "src":  "rec_agent.mp4",
+                                           "in":  86,
+                                           "out":  104
+                                       },
+                                       {
+                                           "seg":  2,
+                                           "src":  "rec_model.mp4",
+                                           "in":  26,
+                                           "out":  38
+                                       },
+                                       {
+                                           "seg":  2,
+                                           "src":  "rec_print.mp4",
+                                           "in":  336,
+                                           "out":  350
+                                       },
+                                       {
+                                           "seg":  3,
+                                           "src":  "rec_agent.mp4",
+                                           "in":  98,
+                                           "out":  116
+                                       }
+                                   ],
+                         "callouts":  [
+
+                                      ]
+                     },
+                     {
+                         "id":  "ch01",
+                         "num":  "01",
+                         "title":  "注册与登录",
+                         "sub":  "邮箱验证码登录，注意用最后一封",
+                         "beats":  [
+                                       {
+                                           "seg":  0,
+                                           "src":  "rec_login.mp4",
+                                           "in":  12,
+                                           "out":  22
+                                       },
+                                       {
+                                           "seg":  1,
+                                           "src":  "rec_login.mp4",
+                                           "in":  144,
+                                           "out":  158
+                                       },
+                                       {
+                                           "seg":  2,
+                                           "src":  "rec_login.mp4",
+                                           "in":  166,
+                                           "out":  182
+                                       },
+                                       {
+                                           "seg":  3,
+                                           "src":  "rec_login.mp4",
+                                           "in":  228,
+                                           "out":  246
+                                       },
+                                       {
+                                           "seg":  4,
+                                           "src":  "rec_login.mp4",
+                                           "in":  296,
+                                           "out":  314
+                                       }
+                                   ],
+                         "callouts":  [
+                                          {
+                                              "seg":  3,
+                                              "offset":  1.5,
+                                              "text":  "邮箱里往往堆着好几封验证码\n一定要用最后收到的那封",
+                                              "x":  110,
+                                              "y":  660,
+                                              "pointer":  "up"
+                                          }
+                                      ]
+                     },
+                     {
+                         "id":  "ch02",
+                         "num":  "02",
+                         "title":  "文生图",
+                         "sub":  "三段式提示词，决定还原度",
+                         "beats":  [
+                                       {
+                                           "seg":  0,
+                                           "src":  "rec_t2i.mp4",
+                                           "in":  0,
+                                           "out":  14
+                                       },
+                                       {
+                                           "seg":  1,
+                                           "src":  "rec_t2i.mp4",
+                                           "in":  2,
+                                           "out":  24
+                                       },
+                                       {
+                                           "seg":  2,
+                                           "src":  "rec_t2i.mp4",
+                                           "in":  20,
+                                           "out":  34
+                                       },
+                                       {
+                                           "seg":  3,
+                                           "src":  "rec_t2i.mp4",
+                                           "in":  186,
+                                           "out":  210
+                                       },
+                                       {
+                                           "seg":  4,
+                                           "src":  "rec_t2i.mp4",
+                                           "in":  186,
+                                           "out":  215
+                                       },
+                                       {
+                                           "seg":  5,
+                                           "src":  "rec_t2i.mp4",
+                                           "in":  195,
+                                           "out":  235
+                                       },
+                                       {
+                                           "seg":  6,
+                                           "src":  "rec_t2i.mp4",
+                                           "in":  138,
+                                           "out":  152
+                                       }
+                                   ],
+                         "callouts":  [
+                                          {
+                                              "seg":  3,
+                                              "offset":  1.0,
+                                              "text":  "提示词三段\n角色 → 材质 → 构图",
+                                              "x":  120,
+                                              "y":  680,
+                                              "pointer":  "up"
+                                          }
+                                      ]
+                     },
+                     {
+                         "id":  "ch03",
+                         "num":  "03",
+                         "title":  "模型预览与导出",
+                         "sub":  "两百万面，细节拉满",
+                         "beats":  [
+                                       {
+                                           "seg":  0,
+                                           "src":  "rec_model.mp4",
+                                           "in":  4,
+                                           "out":  12
+                                       },
+                                       {
+                                           "seg":  1,
+                                           "src":  "rec_model.mp4",
+                                           "in":  12,
+                                           "out":  21
+                                       },
+                                       {
+                                           "seg":  2,
+                                           "src":  "rec_model.mp4",
+                                           "in":  36,
+                                           "out":  44
+                                       },
+                                       {
+                                           "seg":  3,
+                                           "src":  "rec_model.mp4",
+                                           "in":  32,
+                                           "out":  54
+                                       },
+                                       {
+                                           "seg":  4,
+                                           "src":  "rec_model.mp4",
+                                           "in":  92,
+                                           "out":  110,
+                                           "zoom":  1.0
+                                       },
+                                       {
+                                           "seg":  5,
+                                           "src":  "rec_model.mp4",
+                                           "in":  120,
+                                           "out":  129
+                                       }
+                                   ],
+                         "callouts":  [
+                                          {
+                                              "seg":  3,
+                                              "offset":  1.0,
+                                              "text":  "顶点数 1,025,908　面数 1,986,410\n贴图 8192 × 8192",
+                                              "x":  120,
+                                              "y":  690,
+                                              "pointer":  "up"
+                                          }
+                                      ]
+                     }
+                 ]
+}
